@@ -1,0 +1,69 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.langhamhotels.1865",
+  "serialNumber" : "p69f2J22wwqe21",
+  "teamIdentifier" : "35WZFL69J4",
+  "webServiceURL" : "https://example.com/passes/",
+  "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+  "locations" : [
+    {
+      "longitude" : -122.3748889,
+      "latitude" : 37.6189722
+    }
+  ],
+  
+  "organizationName" : "Langham Hospitality Group",
+  "description" : "1865 Membership Card",
+  "logoText" : "",
+  "foregroundColor" : "rgb(255, 255, 255)",
+  "backgroundColor" : "rgb(136, 119, 68)",
+  "labelColor": "rgb(120, 99, 77)",
+  "generic" : {
+    "primaryFields" : [
+      {
+        "key" : "tier",
+        "label" : "",
+        "value" : "1865 VOYAGER"
+        
+      }
+    ],
+    "auxiliaryFields" : [
+      {
+        "key" : "membershipno",
+        "label" : "MEMBERSHIP NO",
+        "value" : "070000579"
+      },
+      {
+        "key" : "membershipsince",
+        "label" : "MEMBER SINCE",
+        "value" : "2012"
+      }
+    ],
+    "secondaryFields" : [
+      {
+        "key" : "guestname",
+        "label" : "GUEST NAME",
+        "value" : "Samson Wayne"
+      }
+    ],
+    "backFields" : [
+      {
+        "attributedValue": "<a href='http://www.langhamhotels.com/en/the-langham/hong-kong/offers/?semid=tlhkg-brand'>The Langham, Hong Kong</a>",
+        "label" : "Based Hotel",
+        "key" : "hotel",
+        "value" : ""
+      },
+      {
+          "key" : "website",
+          "label" : "1865 Membership Website",
+          "value" : "https://1865.langhamhotels.com"
+      },
+      {
+          "key" : "email",
+          "label" : "Contact us by email",
+          "value" : "lhi.1865@langhamhotels.com"
+      }
+      
+    ]
+  }
+}
